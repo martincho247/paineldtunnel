@@ -1,5 +1,5 @@
 {
-  "Version": "1.0",
+  "Version": "1.1",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/martincho247/paineldtunnel/refs/heads/main/config.json",
   "Sms": "",
@@ -26,7 +26,7 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "TunnelType": "Proxy"
   },
  {
-   "Name": "Personal Chile🇨🇱  Cloudflare",
+   "Name": "xupertv Chile🇨🇱  Cloudflare",
    "FLAG": "br",
    "ServerIP": "emailmarketing.personal.com.ar",
    "ServerPort": "80",
